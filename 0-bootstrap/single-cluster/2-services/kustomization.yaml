@@ -12,7 +12,7 @@ resources:
 # ODM Instance
 - argocd/instances/ibm-cp4ba-icp4acluster.yaml
 # ODM Instance ODM NS
-#- argocd/instances/ibm-odm-icp4acluster.yaml
+- argocd/instances/ibm-odm-icp4acluster.yaml
 
 patches:
 - target:
