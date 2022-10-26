@@ -8,7 +8,7 @@ resources:
 # CP4A operator
 - argocd/operators/ibm-cp4ba-operator.yaml
 # CP4A operator ODM NS
-#- argocd/operators/ibm-cp4ba-odm-ns.yaml
+- argocd/operators/ibm-cp4ba-odm-ns.yaml
 # ODM Instance
 # - argocd/instances/ibm-cp4ba-icp4acluster.yaml
 # ODM Instance ODM NS
