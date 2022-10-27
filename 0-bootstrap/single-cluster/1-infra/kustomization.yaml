@@ -6,7 +6,7 @@ resources:
 - argocd/namespace-db2.yaml
 - argocd/namespace-cp4ba.yaml
 - argocd/namespace-cp4a.yaml
-- argocd/namespace-odm.yaml
+# - argocd/namespace-odm.yaml
 - argocd/namespace-openldap.yaml
 - argocd/namespace-kube-system.yaml
 - argocd/namespace-operational-decision-manager.yaml
