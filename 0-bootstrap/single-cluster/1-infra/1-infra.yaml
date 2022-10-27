@@ -58,8 +58,6 @@ spec:
   - group: "console.openshift.io"
     kind: ConsoleNotification
   - group: "console.openshift.io"
-    kind: lowerbanner
-  - group: "console.openshift.io"
     kind: ConsoleLink
   - group: "machine.openshift.io"
     kind: MachineSet
