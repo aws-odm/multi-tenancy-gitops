@@ -8,7 +8,7 @@ resources:
 ######################
 # CP4BA/ODM on CP4BA #
 ######################
-- argocd/operators/ibm-cp4ba-operator.yaml
+# - argocd/operators/ibm-cp4ba-operator.yaml
 # - argocd/instances/ibm-cp4ba-icp4acluster.yaml
 #########################
 # CP4BA/ODM on ODM #
