@@ -9,6 +9,7 @@ resources:
 - argocd/namespace-odm.yaml
 - argocd/namespace-openldap.yaml
 - argocd/namespace-kube-system.yaml
+- argocd/namespace-operational-decision-manager.yaml
 - argocd/test.yaml
 # set ibm-entitelment key before enabling odm-noroot
 # - argocd/odm-norootsquash.yaml
