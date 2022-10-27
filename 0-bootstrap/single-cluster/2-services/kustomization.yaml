@@ -1,5 +1,7 @@
 resources:
-# Db2 Operator & Instances and setup
+######################################
+# Db2 Operator & Instances and setup #
+######################################
 # - argocd/operators/ibm-cp4ba-db2.yaml
 # - argocd/instances/ibm-cp4a-db2ucluster.yaml
 # - argocd/instances/ibm-cp4a-db2u-setup.yaml
