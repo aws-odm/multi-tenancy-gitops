@@ -17,7 +17,7 @@ resources:
 # - argocd/instances/ibm-cp4a-icp4acluster.yaml
 #####
 - argocd/operators/test.yaml
-- argocd/instances/test.yaml
+# - argocd/instances/test.yaml
 #####
 
 
