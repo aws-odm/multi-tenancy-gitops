@@ -26,7 +26,7 @@ resources:
 # CP4BA/ODM on ODM #
 #########################
 - argocd/operators/ibm-cp4ba-odm-ns.yaml
-- argocd/instances/ibm-odm-icp4acluster.yaml
+# - argocd/instances/ibm-odm-icp4acluster.yaml
 
 patches:
 - target:
