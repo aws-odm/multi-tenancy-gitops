@@ -10,11 +10,6 @@ resources:
 ######################
 - argocd/operators/ibm-cp4ba-operator.yaml
 - argocd/instances/ibm-cp4ba-icp4acluster.yaml
-#######################
-## CP4BA/ODM on CP4A ##
-#######################
-# - argocd/operators/ibm-cp4a-operator.yaml
-# - argocd/instances/ibm-cp4a-icp4acluster.yaml
 ################################
 # operational-decision-manager #
 ################################

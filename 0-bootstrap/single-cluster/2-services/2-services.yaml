@@ -34,10 +34,6 @@ spec:
     server: https://kubernetes.default.svc
   - namespace: odm
     server: https://kubernetes.default.svc
-  - namespace: cp4a
-    server: https://kubernetes.default.svc
-  - namespace: test
-    server: https://kubernetes.default.svc
   - namespace: operational-decision-manager
     server: https://kubernetes.default.svc
   clusterResourceWhitelist:
