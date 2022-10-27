@@ -34,4 +34,4 @@ spec:
           ## The text that should be displayed in the banner. This value is required for the banner to be created
           link:
             href: 'https://cpd-odm.apps.ual-mvp.united.activation-assets.com/zen/#/homepage'
-            text: CP4BA/ODM CloudPak Dashboard
+            text: "CP4BA/ODM CloudPak Dashboard"
