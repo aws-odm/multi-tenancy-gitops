@@ -19,7 +19,7 @@ resources:
 - argocd/operators/test.yaml
 - argocd/instances/test.yaml
 #####
-- argocd/operators/operational-decision-manager-operator.yaml
+# - argocd/operators/operational-decision-manager-operator.yaml
 #########################
 # CP4BA/ODM on ODM #
 #########################
