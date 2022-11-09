@@ -42,6 +42,8 @@ spec:
     server: https://kubernetes.default.svc
   - namespace: operational-decision-manager
     server: https://kubernetes.default.svc
+  - namespace: united
+    server: https://kubernetes.default.svc
   clusterResourceWhitelist:
   - group: ""
     kind: Namespace

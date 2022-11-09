@@ -29,6 +29,12 @@ resources:
 ###################
 # - argocd/instances/ibm-cp4a-icp4acluster-postdeploy.yaml
 
+###################
+### United Demo ###
+###################
+# - argocd/operators/united-operator.yaml
+# - argocd/instances/united-odm.yaml
+
 
 patches:
 - target:
