@@ -28,7 +28,6 @@ resources:
 # Post Deployment #
 ###################
 # - argocd/instances/ibm-cp4a-icp4acluster-postdeploy.yaml
-
 ###################
 ### United Demo ###
 ###################
