@@ -31,7 +31,7 @@ resources:
 ###################
 ### United Demo ###
 ###################
-# - argocd/operators/united-operator.yaml
+- argocd/operators/united-operator.yaml
 # - argocd/instances/united-odm.yaml
 
 
